@@ -1,0 +1,13 @@
+Assets/Plugins/ARFoundationRemoteInstaller
+ARFoundationRemoteCompanionApp
+Library
+Logs
+UserSettings
+obj
+Packages
+ARFoundationRemoteInstaller.meta
+Assets/XR/Loaders/AR Foundation Remote Loader.asset
+Assets/XR/Loaders/AR Foundation Remote Loader.asset.meta
+Assets/XR/Settings/AR Foundation Remote Loader Settings.asset
+Assets/XR/Settings/AR Foundation Remote Loader Settings.asset.meta
+builds
